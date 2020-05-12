@@ -1,7 +1,7 @@
 
 package tugas_gui;
 import javax.swing.JOptionPane;
-// 1
+// CEK
 public class GUI extends javax.swing.JFrame {
         public int tahun, tahun1, tahun2;
         public String domisili, divisi, namadpn, namablkg, tahun3, kosong;
